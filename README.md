@@ -11,7 +11,8 @@ I'm a passionate Data Data Analyst | Power BI Developer | Visualization Expert b
 - ETL
 - Excel
 
-[Email Address](mailto:marziehroustaei@outlook.com)
+
 
 
 Feel free to explore my repositories and connect with me!
+[Email Address](mailto:marziehroustaei@outlook.com)
