@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Marzi
 
-I'm a passionate Data Data Analyst | Power BI Developer | Visualization Expert based in Sydney.
+I'm a passionate  Data Analyst | Power BI Developer | Visualization Expert based in Sydney.
 
 ## 🔧 Skills
 
